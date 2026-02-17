@@ -1,9 +1,9 @@
-#Projeto certificação QA
+# Projeto certificação QA
 Este repositório contém atividades práticas relacioanadas a estudos de Qualidade de software (QA).
 
-#Estrutura do projeto
+# Estrutura do projeto
 -documento/
- -fluxo_transacao.md
+-fluxo_transacao.md
 
  ## objetivo
 
