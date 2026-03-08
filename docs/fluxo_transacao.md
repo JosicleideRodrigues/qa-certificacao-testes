@@ -1,5 +1,5 @@
 #Fluxo de transação financeira
-#Etapas do processo\
+#Etapas do processo
 
 -Cliente inicia compra
 -Sistema envia requisição ao adquirente
